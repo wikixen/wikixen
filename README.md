@@ -1,7 +1,7 @@
 # Hi 👋, I'm Benny Hernandez & This is my Github
-I'm a recent graduate from Rutgers University interested in data engineering & analysis.
+I'm a recent graduate from Rutgers University currently interested in data engineering & analysis.
 - I'm currently fixing my portfolio site.
-- In the process of learning AWS.
+- In the process of learning AWS suite prodcuts related to data engineering.
 - I plan to look into and learn about bare metal programming.
 
 You can use the following email to get in contact with me: bennylopezhernandez0@gmail.com
