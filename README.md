@@ -8,15 +8,20 @@ You can use the following email to get in contact with me: bennylopezhernandez0@
 
 
 ## Skills
+### Languages
+- JavaScript/TypeScript
+- HTML/CSS
+- SQL (MySQL & PostgreSQL)
 - Python
-- PostgreSQL
-- C++
+- C
 - R
-- JavaScript
+### Frameworks
+- React
+- TailwindCSS
+### Technologies
 - Pandas
 - Git
 - Docker
-- HTML/CSS
 
 <!--
 **Xenny-sudo/Xenny-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
