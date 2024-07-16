@@ -1,8 +1,6 @@
 # Hi 👋, I'm Benny Hernandez & This is my Github
-I'm a recent graduate from Rutgers University currently interested in data engineering & analysis.
-- I'm currently fixing my portfolio site.
-- In the process of learning AWS suite prodcuts related to data engineering.
-- I plan to look into and learn about bare metal programming.
+I'm a recent graduate from Rutgers University whose currently interested in web dev🕸️
+Plan to go back to school to get a B.S. in electrical & computer engineering🔌
 
 You can use the following email to get in contact with me: bennylopezhernandez0@gmail.com
 
@@ -10,7 +8,6 @@ You can use the following email to get in contact with me: bennylopezhernandez0@
 ## Skills
 ### Languages
 - JavaScript/TypeScript
-- HTML/CSS
 - SQL (MySQL & PostgreSQL)
 - Python
 - C
@@ -19,9 +16,11 @@ You can use the following email to get in contact with me: bennylopezhernandez0@
 - React
 - TailwindCSS
 ### Technologies
+- Express
 - Pandas
 - Git
-- Docker
+### Other
+- HTML/CSS
 
 <!--
 **Xenny-sudo/Xenny-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
