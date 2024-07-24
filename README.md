@@ -10,13 +10,13 @@ You can use the following email to get in contact with me: bennylopezhernandez0@
 - JavaScript/TypeScript
 - SQL (MySQL & PostgreSQL)
 - Python
-- C
 - R
 ### Frameworks
 - React
 - TailwindCSS
 ### Technologies
 - Express
+- Node.js
 - Pandas
 - Git
 ### Other
