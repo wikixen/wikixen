@@ -16,7 +16,7 @@ You can use the following email to get in contact with me: bennylopezhernandez0@
 - React
 - TailwindCSS
 - Node.js
-- Express
+  - Express
 ### Technologies
 - Pandas
 - Git
