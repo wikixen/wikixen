@@ -8,9 +8,10 @@ You can use the following email to get in contact with me: bennylopezhernandez0@
 ## Skills
 ### Languages
 - JavaScript/TypeScript
-- SQL (MySQL & PostgreSQL)
+- Go
 - Python
 - R
+- SQL (MySQL & PostgreSQL)
 ### Frameworks
 - React
 - TailwindCSS
