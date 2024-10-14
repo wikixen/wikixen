@@ -14,7 +14,7 @@ You can use the following email to get in contact with me: bennylopezhernandez0@
 - SQL (MySQL, PostgreSQL, & SQLite)
 - HTML/CSS(Not really a lang but I need to put it somewhere)
 ### Frameworks
-- Svelte
+- SvelteKit
 - Node.js
 - React
 ### Technologies/Packages
