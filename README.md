@@ -1,4 +1,4 @@
-# Hi 👋, I'm Benny Hernandez & This is my Github
+# Hi 👋, I'm Benny Hernandez,
 I'm a recent graduate from Rutgers University whose currently interested in web dev🕸️
 Plan to go back to school to get a M.S. in computer engineering🔌
 
