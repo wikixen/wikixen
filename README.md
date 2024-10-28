@@ -1,5 +1,5 @@
 # Hi 👋, I'm Benny Hernandez,
-I'm a recent graduate from Rutgers University whose currently interested in web dev🕸️
+I'm a recent graduate from Rutgers University whose currently interested in android dev🤖
 Plan to go back to school to get a M.S. in computer engineering🔌
 
 You can use the following email to get in contact with me: bennylopezhernandez0@gmail.com
@@ -10,6 +10,7 @@ You can use the following email to get in contact with me: bennylopezhernandez0@
 - Go 
 - JavaScript/TypeScript
 - Python
+- Kotlin
 - R
 - SQL (MySQL, PostgreSQL, & SQLite)
 - HTML/CSS(Not really a lang but I need to put it somewhere)
@@ -18,7 +19,7 @@ You can use the following email to get in contact with me: bennylopezhernandez0@
 - Node.js
 - React
 ### Technologies/Packages
-- Pandas
+- The Python Data Science Suite i.e. Pandas, NumPy, SciPy, & PyTorch
 - Git
 
 <!--
