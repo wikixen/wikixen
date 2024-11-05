@@ -1,5 +1,5 @@
 
-| # Hi I'm Benny Hernandez👋, |
+| # Hi I'm Benny Hernandez👋, | ![gopher-dance-long-3x](https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef) |
 | -----------------------------|
 | I'm a recent graduate from Rutgers University whose currently learning in android dev & systems dev.<br/>|
 | Have experience in data analytics & machine learning.<br/>|
@@ -25,7 +25,7 @@
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=wikixen&theme=blue-green
 
-![gopher-dance-long-3x](https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef)
+
 Gopher mascot made by [egonelbre](https://github.com/egonelbre/gophers)
 <!--
 **Xenny-sudo/Xenny-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
