@@ -5,9 +5,7 @@
     Have experience in data analytics & machine learning.<br/>
     Plan to go back to school to get a M.S. in computer engineering🔌
   </p>
-  <p style="justify-items: end;">
     ![gopher-dance-long-3x](https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef)
-  </p>
 </p>
 
 ## Skills
