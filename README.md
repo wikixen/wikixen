@@ -2,7 +2,7 @@
 I'm a recent graduate from Rutgers University whose currently learning in android dev & systems dev.<br/>
 Have experience in data analytics & machine learning.<br/>
 Plan to go back to school to get a M.S. in computer engineering🔌
-<img src="https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef" alt="Go Gopher" width="10" height="30"> 
+<img src="https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef" alt="Go Gopher" width="30" height="40"> 
 
 ## Skills
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
