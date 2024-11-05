@@ -24,7 +24,7 @@ Plan to learn C & Rust for when I get to embedded programming
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikixen&theme=blue-green" alt="Language Stats" width="25" height="30"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikixen&theme=blue-green" alt="Language Stats"><br/>
 
 
 
