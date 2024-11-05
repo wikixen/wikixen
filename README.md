@@ -1,9 +1,14 @@
-# Hi I'm Benny Hernandez👋,
-| ----- | ----- |
-| I'm a recent graduate from Rutgers University whose currently learning in android dev & systems dev.<br/>|![gopher-dance-long-3x](https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef) |
-| Have experience in data analytics & machine learning.<br/>|
-| Plan to go back to school to get a M.S. in computer engineering🔌|
-
+<div style="display:flex;flex-direction:row;">
+  <div style="justify-items: start;">
+    # Hi I'm Benny Hernandez👋,
+    I'm a recent graduate from Rutgers University whose currently learning in android dev & systems dev.<br/>
+    Have experience in data analytics & machine learning.<br/>
+    Plan to go back to school to get a M.S. in computer engineering🔌
+  </div>
+  <div style="justify-items: end;">
+    ![gopher-dance-long-3x](https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef)
+  </div>
+</div>
 
 ## Skills
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
