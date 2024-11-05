@@ -1,6 +1,6 @@
 # Hi I'm Benny Hernandez👋,
-I'm a recent graduate from Rutgers University whose currently learning in android dev & systems dev.
-Have experience in data analytics & machine learning
+I'm a recent graduate from Rutgers University whose currently learning in android dev & systems dev.<br/>
+Have experience in data analytics & machine learning.<br/>
 Plan to go back to school to get a M.S. in computer engineering🔌
 
 
