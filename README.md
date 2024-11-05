@@ -23,7 +23,9 @@ Plan to learn C & Rust for when I get to embedded programming
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=wikixen&theme=blue-green
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikixen&theme=blue-green" alt="Language Stats" width="25" height="30"><br/>
+
 
 
 Gopher mascot made by [egonelbre](https://github.com/egonelbre/gophers)
