@@ -3,7 +3,7 @@ I'm a recent graduate from Rutgers University whose currently learning in androi
 Have experience in data analytics & machine learning.<br/>
 Plan to go back to school to get a M.S. in computer engineering🔌
 
-Go is one of my favorite languages <img src="https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef" alt="Go Gopher" width="25" height="30"> which I use for the majority of my systems & cloud dev demos.<br/>
+Go is one of my favorite languages which I use for the majority of my systems & cloud dev demos(As well as my backends for my apps) on my profile<img src="https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef" alt="Go Gopher" width="25" height="30"><br/>
 Plan to learn C & Rust for when I get to embedded programming
 
 ## Skills
