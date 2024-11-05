@@ -1,5 +1,4 @@
 # Hi I'm Benny Hernandez👋,
-| | |
 | ----- | ----- |
 | I'm a recent graduate from Rutgers University whose currently learning in android dev & systems dev.<br/>|![gopher-dance-long-3x](https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef) |
 | Have experience in data analytics & machine learning.<br/>|
