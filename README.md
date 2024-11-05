@@ -21,6 +21,10 @@ Plan to go back to school to get a M.S. in computer engineering🔌
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={wikixen}&theme=blue-green
+
+![gopher-dance-long-3x](https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef)
+Gopher mascot made by [egonelbre](https://github.com/egonelbre/gophers)
 <!--
 **Xenny-sudo/Xenny-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
