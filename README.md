@@ -1,14 +1,14 @@
 # Hi I'm Benny Hernandez👋,
-I'm a recent graduate from Rutgers University whose currently learning in android dev & systems dev.<br/>
+I'm a recent graduate from Rutgers University whose currently learning in cloud & systems dev.<br/>
 Have experience in data analytics & machine learning.<br/>
 Plan to go back to school to get a M.S. in computer engineering🔌
 
-Go is one of my favorite languages which I use for the majority of my systems & cloud dev demos(As well as my backends for my apps) on my profile<img src="https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef" alt="Go Gopher" width="35" height="30"><br/>
+Go is one of my favorite languages which I use for the majority of my systems & cloud dev demos on my profile<img src="https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef" alt="Go Gopher" width="35" height="30"><br/>
 Plan to learn C & Rust for when I get to embedded programming
 
 ## Skills
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
