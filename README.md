@@ -1,9 +1,7 @@
 # Hi I'm Benny Hernandez👋,
-I'm a recent graduate from Rutgers University whose currently dabbling in cloud engineering, OS development, embedded development & language development.<br/>
+I'm a recent graduate from Rutgers University whose currently dabbling in cloud engineering, OS development, embedded development & language development.<img src="https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef" alt="Go Gopher" width="35" height="30"><br/>
 Have experience in data analytics & machine learning.<br/>
 Plan to go back to school to get a M.S. in computer engineering🔌
-
-Go is one of my favorite languages which I use for the majority of my systems & cloud dev demos on my profile<img src="https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef" alt="Go Gopher" width="35" height="30"><br/>
 
 ## Skills
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
