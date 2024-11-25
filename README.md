@@ -7,6 +7,7 @@ Plan to dabble in language development in the future for fun.
 ## Skills
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)<img src="https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef" alt="Go Gopher" width="35" height="30">
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,6 +28,7 @@ Plan to dabble in language development in the future for fun.
 
 
 Gopher mascot made by [egonelbre](https://github.com/egonelbre/gophers)
+Markodwn badges made by [Ileriayo](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file)
 <!--
 **Xenny-sudo/Xenny-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
