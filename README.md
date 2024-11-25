@@ -1,14 +1,14 @@
 # Hi I'm Benny Hernandez👋,
-I'm a recent graduate from Rutgers University whose currently dabbling in systems sofwtare & embedded development.<br/>
+I'm a recent graduate from Rutgers University whose currently dabbling in systems software & embedded development.<br/>
 Minored in Data Science while at Rutgers so I have experience in data analytics & machine learning.<br/>
 Starting my M.S. in computer engineering in 2025🔌
 Plan to dabble in language development in the future for fun.
 
 ## Skills
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)<img src="https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef" alt="Go Gopher" width="35" height="30">
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)<img src="https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef" alt="Go Gopher" width="35" height="30">
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
