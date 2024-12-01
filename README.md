@@ -28,7 +28,7 @@ Plan to dabble in language development in the future for fun.
 
 
 Gopher mascot made by [egonelbre](https://github.com/egonelbre/gophers)
-Markodwn badges made by [Ileriayo](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file)
+Markdown badges made by [Ileriayo](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file)
 <!--
 **Xenny-sudo/Xenny-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
