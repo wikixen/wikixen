@@ -23,7 +23,7 @@ I also dabble in embedded development.
 
 [<img src="https://github.com/user-attachments/assets/d39389ce-528e-48da-a573-9101c393f6ef" alt="Go Gopher" width="35" height="30">](https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/.thumb/animation/2bit-sprite/demo.gif)
 
-Gopher mascot made by [egonelbre](https://github.com/egonelbre/gophers)
+Gopher mascot made by [egonelbre](https://github.com/egonelbre/gophers) </br>
 Markdown badges made by [Ileriayo](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file)
 <!--
 **Xenny-sudo/Xenny-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
