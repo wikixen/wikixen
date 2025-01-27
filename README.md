@@ -25,6 +25,7 @@ I also dabble in embedded development.
 
 Gopher mascot made by [egonelbre](https://github.com/egonelbre/gophers) </br>
 Markdown badges made by [Ileriayo](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file)
+Github Stats Chart by [Anuraghazra]([https://github.com/anuraghazra](https://github.com/anuraghazra/github-readme-stats))
 <!--
 **Xenny-sudo/Xenny-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
