@@ -1,5 +1,5 @@
 # Hi I'm Benny Hernandez👋,
-I'm a recent graduate from Rutgers University actively searching for work in app development<br/>
+I'm a recent graduate from Rutgers University actively searching for work in app or web development<br/>
 Minored in Data Science while at Rutgers so I have experience in data analytics & machine learning.</br>
 I also dabble in embedded development.
 
@@ -7,6 +7,7 @@ I also dabble in embedded development.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
