@@ -1,8 +1,8 @@
 # Hi I'm Benny Hernandez👋,
-Interested in embedded development with a focus on robotics & bionics.
-I also have knowledge in machine learning.</br>
+Interested in embedded development.
+I also have knowledge in data science & machine learning.</br>
 Starting my M.S. in Computer Engineering at NJIT in January 2026.<br/><br/>
-I also know smidgen about web & android development.
+I also know a smidgen about web & android development.
 
 ## Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -10,7 +10,7 @@ I also know smidgen about web & android development.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikixen&hide_progress=true" alt="Language Stats"><br/>
 
