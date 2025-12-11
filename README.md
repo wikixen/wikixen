@@ -13,8 +13,6 @@ I also know a smidgen about web & android development.
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikixen&hide_progress=true" alt="Language Stats"><br/>
-
 Markdown badges made by [Ileriayo](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file) </br>
 <!--
 **Xenny-sudo/Xenny-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
