@@ -6,6 +6,7 @@ I also know a smidgen about web & android development.
 
 ## Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -15,7 +16,6 @@ I also know a smidgen about web & android development.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikixen&hide_progress=true" alt="Language Stats"><br/>
 
 Markdown badges made by [Ileriayo](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file) </br>
-Github Stats Chart by [Anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Xenny-sudo/Xenny-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
