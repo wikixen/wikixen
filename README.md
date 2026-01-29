@@ -1,8 +1,6 @@
 # Hi I'm Benny Hernandez👋,
 Interested in embedded development.
 I also have knowledge in data science & machine learning.</br>
-Starting my M.S. in Computer Engineering at NJIT in January 2026.<br/><br/>
-I also know a smidgen about web & android development.
 
 ## Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
