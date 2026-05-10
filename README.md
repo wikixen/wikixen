@@ -1,6 +1,5 @@
 # Hi I'm Benny Hernandez👋,
-Interested in DSP.
-Knowledgeable in data science & machine learning.</br>
+Interested in embedded & statistical computing.</br>
 
 ## Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
